@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./pic/logo1.png" width="200" height="200"/>
+<img src="./pic/logo2.png" width="200" height="200"/>
 </p>
 <h1 align="center">docsify-demo</h1>
 
