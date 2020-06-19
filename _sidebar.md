@@ -1,11 +1,11 @@
-### 个人笔记记录
 
-- RabbitMQ
+
+- **RabbitMQ**
   - [教程](./docs/RabbitMQ/RibbitMQ实战教程.md)
-- ActiveMQ
+- **ActiveMQ**
   - [学习笔记](./docs/ActiveMQ/ActiveMQ学习.md)
 
-### 收集文章列表
+
 
 
 * [备战面试](./docs/a-1备战面试.md)
