@@ -4,7 +4,7 @@
 <h1 align="center">记录精彩程序人生</h1>
 
 [常用资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
-[GitHub](https://github.com/Snailclimb/docsify-demo)
+[GitHub](https://github.com/yamw/CodingRecord)
 [开始阅读](#docsify-demo)
 
 
