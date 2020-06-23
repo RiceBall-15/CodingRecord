@@ -2,12 +2,13 @@
 * 个人笔记记录
 
 * RabbitMQ
+  
   * [教程](./docs/RabbitMQ/RibbitMQ实战教程.md)
 * ActiveMQ
-  * [学习笔记](./docs/ActiveMQ/ActiveMQ学习.md)
-
+  
+* [学习笔记](./docs/ActiveMQ/ActiveMQ学习.md)
+  
 * 网络收藏文章
-* 
 * [备战面试](./docs/a-1备战面试.md)
 
 * Java
@@ -16,6 +17,7 @@
   * [Java集合](./docs/b-2Java集合.md)
   * [Java多线程](./docs/b-3Java多线程.md)
   * [jvm](./docs/b-4jvm.md)
+  * [jdk1.8新特性](./docs/jdk8新特性.md)
 
 * 计算机基础
 
