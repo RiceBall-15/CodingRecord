@@ -1,6 +1,9 @@
 
 * 个人笔记记录
 
+
+  * [JVM总结](./docs/JVM/JVM.md)
+
 * RabbitMQ
   
   * [教程](./docs/RabbitMQ/RibbitMQ实战教程.md)
